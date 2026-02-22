@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "email": "23f3001009@ds.study.iitm.ac.in",
+    "version": "163a74f7"
+  },
+  "products": [
+    { "id": 1, "name": "Football Pro", "category": "sports", "price": 10000.00, "stock": 5, "rating": 4.5 },
+    { "id": 2, "name": "Tennis Racket Elite", "category": "sports", "price": 2499.99, "stock": 10, "rating": 4.3 },
+
+    { "id": 3, "name": "Laptop X15", "category": "electronics", "price": 75000.00, "stock": 5, "rating": 4.7 },
+    { "id": 4, "name": "Wireless Mouse", "category": "electronics", "price": 799.50, "stock": 40, "rating": 4.2 },
+    { "id": 5, "name": "Bluetooth Speaker", "category": "electronics", "price": 2999.00, "stock": 25, "rating": 4.4 },
+    { "id": 6, "name": "Smartphone Z", "category": "electronics", "price": 65000.00, "stock": 8, "rating": 4.6 },
+
+    { "id": 7, "name": "Office Chair", "category": "furniture", "price": 8500.00, "stock": 12, "rating": 4.1 },
+    { "id": 8, "name": "Study Desk", "category": "furniture", "price": 12000.00, "stock": 7, "rating": 4.3 },
+    { "id": 9, "name": "Bookshelf Classic", "category": "furniture", "price": 4500.00, "stock": 15, "rating": 4.0 },
+
+    { "id": 10, "name": "Running Shoes", "category": "fashion", "price": 3500.00, "stock": 20, "rating": 4.4 },
+    { "id": 11, "name": "Leather Jacket", "category": "fashion", "price": 8999.00, "stock": 10, "rating": 4.5 },
+    { "id": 12, "name": "Casual T-Shirt", "category": "fashion", "price": 799.00, "stock": 50, "rating": 4.2 },
+
+    { "id": 13, "name": "Cookware Set", "category": "home", "price": 5000.00, "stock": 14, "rating": 4.3 },
+    { "id": 14, "name": "Mixer Grinder", "category": "home", "price": 3200.00, "stock": 18, "rating": 4.1 },
+    { "id": 15, "name": "Vacuum Cleaner", "category": "home", "price": 7500.00, "stock": 6, "rating": 4.4 },
+
+    { "id": 16, "name": "Novel Collection", "category": "books", "price": 1500.00, "stock": 30, "rating": 4.6 },
+    { "id": 17, "name": "Science Encyclopedia", "category": "books", "price": 2200.00, "stock": 9, "rating": 4.5 },
+    { "id": 18, "name": "Children Story Book", "category": "books", "price": 499.00, "stock": 60, "rating": 4.3 },
+    { "id": 19, "name": "History Atlas", "category": "books", "price": 1800.00, "stock": 11, "rating": 4.2 }
+  ],
+  "aggregations": {
+    "sports": {
+      "count": 2,
+      "inventoryValue": 74955.54
+    }
+  }
+}
